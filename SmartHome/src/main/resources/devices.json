@@ -1,0 +1,7 @@
+{
+  "devices": [
+    { "id": 1, "type": "Light", "name": "Living Room Light", "status": "OFF" },
+    { "id": 2, "type": "Fan", "name": "Bedroom Fan", "status": "OFF" },
+    { "id": 3, "type": "AC", "name": "Hall Air Conditioner", "status": "OFF" }
+  ]
+}
